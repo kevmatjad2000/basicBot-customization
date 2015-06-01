@@ -55,13 +55,13 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "basicBot",
-        language: "english",
+        botName: "~ ♦ ~CER BOT~ ♦ ~",
+        language: "Czech",
         startupCap: 1, // 1-200
         startupVolume: 0, // 0-100
         startupEmoji: false, // true or false
         cmdDeletion: true,
-        chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
+        chatLink: "https://cdn.rawgit.com/Yemasthui/basicBot/ab0c31bc4ea71d25b394bcd3a631c5d75c15ccf5/lang/en.json",
         maximumAfk: 120,
         afkRemoval: true,
         maximumDc: 60,

@@ -56,9 +56,9 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "basicBot",
-        language: "english",
-        chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
+        botName: "RmoBot",
+        language: "czech",
+        chatLink: "https://github.com/Yemasthui/basicBot/blob/9e35e93490c1b04fe94ad7bc0196d1b1636175f9/lang/en.json",
         startupCap: 1, // 1-200
         startupVolume: 0, // 0-100
         startupEmoji: false, // true or false
